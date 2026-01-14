@@ -1,0 +1,13 @@
+com\sd\App.class
+com\sd\entities\Avaliavel.class
+com\sd\server\AvaliadorImpl.class
+com\sd\server\ApiServer.class
+com\sd\server\DispatcherImpl.class
+com\sd\entities\Pedido.class
+com\sd\entities\PedidoSobremesa.class
+com\sd\entities\Bebida.class
+com\sd\server\RestauranteImpl.class
+com\sd\entities\Sobremesa.class
+com\sd\util\JsonUtil.class
+com\sd\entities\PedidoComida.class
+com\sd\entities\PedidoBebida.class
